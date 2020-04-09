@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  width: auto;
+}
+.layout{
+    text-align: center;
+}
+.FirstBlock
+{
+    background: lightblue;
+    overflow: hidden;
+
+}
+.SecondBlock
+{
+    color: black;
+    padding: 2px;
+    float: left;
+    height: auto;
+    width: auto;
+    background: lightblue;
+    overflow: hidden
+
+}
